@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Kumkum Dubey  
 
-<!--
-**kumkum77/kumkum77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing **BCA (3rd Year)** at **VIT Vellore**.  
+💻 Passionate about coding, problem-solving, and building dynamic projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Programming Languages:** Java, Python, C, C++  
+- **Tools & Platforms:** GitHub, VS Code  
+- **Database & CS Fundamentals:** DBMS, DSA  
+
+---
+
+## 💬 Ask Me About  
+- Java  
+- Python  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: [kumkummzp77@gmail.com](mailto:kumkummzp77@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/kumkumdubey](https://linkedin.com/in/kumkumdubey)  
+
+---
+
+😄 Pronouns: **She/Her**  
+
+✨ *Always eager to learn, build, and collaborate on innovative ideas!*  
